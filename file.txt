@@ -1,2 +1,3 @@
 This is the main line
-fahad added line 2
+fahad added line 2<<<<<<< Updated upstream
+@ fahad added this line 2
